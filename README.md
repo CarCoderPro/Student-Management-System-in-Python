@@ -3,7 +3,8 @@ Student Management System
 This is a Student Management System built using Python with Tkinter for the GUI and MySQL for the database. The system allows users to add, view, update, and delete student records efficiently.
 
 Features:
-1.Connect to database:Used to connect to the database for the CRUD Operations
+
+1.Connect to database:Used to connect to the database for the CRUD Operations.
 
 2.Add Student: Add new student records with details like name, roll number, grade, and contact information.
 
